@@ -79,16 +79,15 @@ body{
 
 .vertical1{
     margin-top: 14%;
-    margin-left: 6%;
     border-left: solid #ffffff;
     height: 43%;
     position: absolute;
-    left: 49.5%;
+    left: 55.5%;
 }
 
 .changeLanguage{
     position: fixed;
-    margin-top: 22%;
+    bottom: 2%;
 }
 
 .changeLanguage:hover{
@@ -218,7 +217,7 @@ section{
 .proj2txt{
     color: #cccccc;
     font-size: 30px;
-    margin-top: -29.5%;
+    margin-top: -40%;
     margin-left: -156%;
     padding-right: 100%;
 }
@@ -241,7 +240,7 @@ section{
 .proj3txt{
     color: #cccccc;
     font-size: 30px;
-    margin-top: -13.5%;
+    margin-top: -14.5%;
     margin-left: 25%;
 }
 
@@ -253,10 +252,81 @@ section{
     position: absolute;
 }
 
+.ghLink{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.ghLink:hover{
+    color: #43faab;
+}
+
 .gitHubb{
     position: absolute;
     color: #cccccc;
     margin-top: 41%;
     margin-left: 35%;
     font-size: 20px;
+}
+
+#sec4{
+    color: white;
+}
+
+.formMail{
+    position: absolute;
+    margin-left: 25%;
+    margin-top: 12.5%;
+}
+
+.vertical2{
+    position: absolute;
+    margin-top: 10%;
+    border-left: solid #ffffff;
+    height: 62%;
+    position: absolute;
+    left: 53%;
+}
+
+.mailMy{
+    position: absolute;
+    margin-top: -40%;
+    color: #ffffff;
+    text-decoration: none;
+    margin-left: 40%;
+}
+
+.mailMy:hover{
+    color: #43faab;
+    
+}
+
+.cityMy{
+    position: absolute;
+    margin-top: 20%;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.cityMy:hover{
+    color: #43faab;
+}
+
+.contact{
+    position: absolute;
+    margin-left: 25%;
+    margin-top: 10%;
+}
+
+.myInfo{
+    position: absolute;
+    margin-left: 55%;
+    margin-top: 20%;
+    font-size: 20px;
+}
+
+.infoMail{
+    width: 50px;
+    position: absolute;
+    margin-top: -45%;
 }
